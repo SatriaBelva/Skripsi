@@ -1,0 +1,172 @@
+Program Studi,Jumlah Mahasiswa,Jumlah Mahasiswa Asing,Jumlah Dosen,Jumlah Dosen Asing,Jumlah Dosen S3,Jumlah Inbound,Jumlah Outbound,Jumlah Artikel di Jurnal Terindeks Scopus,Jumlah Sitasi Per Prodi,Jumlah Negara Kolaborator,Jumlah Institusi Unik
+UNEJ - Pendidikan Dokter,690.0,0.0,51,0.0,10,1,0,165,978,4,8
+UNEJ - Ilmu Hukum,2283.0,0.0,63,0.0,12,7,1,45,72,8,21
+UNEJ - Ilmu Hukum (S2),280.0,0.0,5,0.0,5,0,0,30,55,0,0
+UNEJ - Kenotariatan (S2),239.0,0.0,5,0.0,5,0,0,35,79,1,2
+UNEJ - Pendidikan Dokter Gigi,707.0,0.0,30,0.0,14,1,0,168,812,12,25
+UNEJ - Rekayasa Perencanaan Mekanik (D4),126.0,0.0,11,0.0,1,0,0,54,162,1,1
+UNEJ - Teknologi Rekayasa Elektronika (D4),119.0,0.0,8,0.0,2,0,0,55,130,1,0
+UNEJ - Teknik Rekayasa Konstruksi Bangunan Gedung (D4),172.0,0.0,9,0.0,1,0,0,21,45,0,1
+UNEJ - Teknik Elektro,557.0,0.0,21,0.0,2,1,0,120,408,5,19
+UNEJ - Teknik Mesin,512.0,0.0,20,0.0,5,1,0,141,4294,14,82
+UNEJ - Teknik Sipil,690.0,0.0,22,0.0,0,0,0,56,178,3,11
+UNEJ - Perencanaan Wilayah dan Kota,324.0,0.0,14,0.0,1,0,0,26,59,1,1
+UNEJ - Teknik Kimia,273.0,0.0,13,0.0,2,0,0,98,1829,8,23
+UNEJ - Teknik Konstruksi Perkapalan,253.0,0.0,6,0.0,0,0,0,19,60,0,0
+UNEJ - Teknik Lingkungan,271.0,0.0,10,0.0,2,0,0,27,348,1,3
+UNEJ - Teknik Perminyakan,227.0,0.0,10,0.0,0,0,0,3,0,0,0
+UNEJ - Teknik Pertambangan,247.0,0.0,9,0.0,0,0,0,20,120,0,0
+UNEJ - Teknik Sipil (S2),59.0,1.0,5,0.0,5,0,0,84,681,2,5
+UNEJ - Teknik Elektro (S2),27.0,0.0,6,0.0,6,0,0,165,1660,4,12
+UNEJ - Teknik Mesin (S2),23.0,0.0,5,0.0,5,0,0,78,314,3,11
+UNEJ - Pendidikan Luar Sekolah,445.0,0.0,13,0.0,4,0,0,20,73,1,1
+UNEJ - Pendidikan Guru Anak Usia Dini,710.0,0.0,18,0.0,0,0,0,6,12,0,0
+UNEJ - Pendidikan Bahasa dan Sastra Indonesia,702.0,0.0,17,0.0,5,0,0,20,29,2,2
+UNEJ - Pendidikan Bahasa Inggris,786.0,0.0,17,0.0,3,0,0,29,217,2,2
+UNEJ - Pendidikan Biologi,575.0,0.0,19,0.0,2,0,0,102,410,7,10
+UNEJ - Pendidikan IPA,577.0,0.0,21,0.0,3,0,0,130,726,2,7
+UNEJ - Pendidikan Fisika,508.0,0.0,17,0.0,2,0,0,97,459,2,4
+UNEJ - Pendidikan Ekonomi,773.0,0.0,19,0.0,2,0,0,72,138,0,0
+UNEJ - Pendidikan Matematika,811.0,0.0,17,0.0,0,0,1,203,1397,3,5
+UNEJ - Pendidikan Guru Sekolah Dasar,1282.0,0.0,29,0.0,1,0,1,41,55,0,0
+UNEJ - Pendidikan Geografi,415.0,0.0,17,0.0,3,0,0,97,743,4,4
+UNEJ - Pendidikan Sejarah,521.0,0.0,16,0.0,2,0,0,92,326,1,1
+UNEJ - Pendidikan Dasar (S2),54.0,0.0,6,0.0,6,0,0,44,1042,1,2
+UNEJ - Pendidikan IPS (S2),51.0,0.0,5,0.0,5,0,0,75,130,0,0
+UNEJ - Pendidikan IPA (S2),59.0,0.0,5,0.0,5,0,0,94,478,0,0
+UNEJ - Pendidikan Matematika (S2),66.0,0.0,7,0.0,7,0,0,217,1012,5,11
+UNEJ - Pendidikan Bahasa Inggris (S2),36.0,0.0,5,0.0,5,0,0,20,240,0,0
+UNEJ - Pendidikan Biologi (S2),5.0,0.0,5,0.0,5,0,0,52,625,1,3
+UNEJ - Agroteknologi,755.0,0.0,22,0.0,3,7,0,179,927,7,30
+UNEJ - Agribisnis,701.0,0.0,25,0.0,3,7,2,85,490,1,1
+UNEJ - Proteksi Tanaman,263.0,0.0,11,0.0,3,7,0,74,839,3,5
+UNEJ - Ilmu Tanah,270.0,0.0,8,0.0,2,7,0,57,329,2,3
+UNEJ - Agronomi,390.0,0.0,11,0.0,3,7,0,65,215,1,5
+UNEJ - Penyuluhan Pertanian,291.0,0.0,11,0.0,4,7,0,50,668,3,5
+UNEJ - Agronomi (S2),38.0,0.0,8,0.0,8,0,1,111,1024,3,19
+UNEJ - Agribisnis (S2),62.0,1.0,5,0.0,5,0,0,74,561,1,6
+UNEJ - Pertanian/Perkebunan,586.0,2.0,20,0.0,0,7,0,33,167,0,0
+UNEJ - Peternakan,299.0,0.0,11,0.0,5,7,4,73,502,2,10
+UNEJ - Kesehatan Masyarakat,1010.0,1.0,36,0.0,4,0,0,144,566,86,142
+UNEJ - Administrasi Kesehatan (S2),13.0,0.0,6,0.0,6,0,0,41,91,1,1
+UNEJ - Gizi,351.0,0.0,12,0.0,0,0,0,20,38,0,0
+UNEJ - Sistem Informasi,531.0,0.0,15,0.0,1,0,0,33,102,0,0
+UNEJ - Informatika,537.0,0.0,18,0.0,3,0,0,206,1711,8,22
+UNEJ - Teknologi Informasi,543.0,0.0,16,0.0,2,0,0,113,847,3,4
+UNEJ - Kimia,480.0,0.0,15,0.0,4,0,1,101,1081,2,2
+UNEJ - Matematika,477.0,0.0,14,0.0,2,0,1,68,256,8,13
+UNEJ - Fisika,371.0,0.0,13,0.0,6,0,0,148,1227,3,6
+UNEJ - Biologi,439.0,0.0,17,4.0,6,0,5,106,787,9,17
+UNEJ - Kimia (S2),4.0,0.0,6,0.0,6,0,0,99,1404,8,27
+UNEJ - Matematika (S2),14.0,0.0,10,0.0,10,0,0,271,1263,6,15
+UNEJ - Fisika (S2),16.0,0.0,8,0.0,8,0,0,162,1648,10,21
+UNEJ - Biologi (S2),23.0,0.0,5,0.0,5,0,1,50,256,0,0
+UNEJ - Farmasi,657.0,0.0,27,0.0,8,0,0,220,2205,10,39
+UNEJ - Farmasi (S2),20.0,0.0,6,0.0,6,0,1,72,640,4,8
+UNEJ - Ilmu Keperawatan,903.0,0.0,41,0.0,2,3,0,137,994,8,0
+UNEJ - Ilmu Keperawatan (S2),60.0,0.0,7,0.0,7,0,0,144,781,10,35
+UNEJ - Sastra Inggris,548.0,0.0,23,0.0,7,0,1,25,131,0,0
+UNEJ - Sastra Indonesia,509.0,0.0,13,0.0,4,0,0,14,3,1,0
+UNEJ - Sejarah,532.0,0.0,16,0.0,5,0,0,23,41,2,0
+UNEJ - Film dan Televisi,511.0,0.0,14,0.0,3,0,0,7,2,3,0
+UNEJ - Ilmu Linguistik (S2),22.0,0.0,5,0.0,5,0,0,8,26,4,0
+UNEJ - Usaha Perjalanan Wisata (D3),271.0,0.0,7,0.0,0,0,0,3,45,5,0
+UNEJ - Perpajakan (D3),282.0,0.0,6,0.0,0,0,0,13,12,1,1
+UNEJ - Sosiologi,701.0,0.0,16,0.0,3,0,0,16,37,1,2
+UNEJ - Kesejahteraan Sosial,764.0,0.0,16,0.0,5,1,0,11,30,1,1
+UNEJ - Hubungan Internasional,836.0,0.0,16,0.0,6,3,10,70,310,0,0
+UNEJ - Administrasi Bisnis/Niaga,772.0,0.0,11,0.0,5,0,0,5,47,0,0
+UNEJ - Administrasi Negara,743.0,0.0,16,0.0,5,3,0,18,45,0,0
+UNEJ - Ilmu Administrasi (S2),75.0,0.0,5,0.0,5,0,0,40,514,0,0
+UNEJ - Teknologi Hasil Pertanian,677.0,0.0,31,0.0,12,7,2,148,891,5,16
+UNEJ - Teknik Pertanian,586.0,0.0,20,0.0,10,7,6,145,1442,9,20
+UNEJ - Teknologi Industri Pertanian,553.0,0.0,19,0.0,4,7,0,36,141,0,0
+UNEJ - Teknologi Agroindustri (S2),18.0,0.0,8,0.0,8,0,1,87,1186,3,4
+UNEJ - Administrasi Keuangan (D3),218.0,0.0,6,0.0,1,0,0,8,16,0,0
+UNEJ - Menajemen Perusahaan (D3),240.0,0.0,6,0.0,0,0,0,13,45,0,0
+UNEJ - Kesekretariatan (D3),180.0,0.0,6,0.0,0,0,0,17,81,0,0
+UNEJ - Manajemen,1222.0,6.0,23,0.0,9,0,5,190,880,2,2
+UNEJ - Ekonomi Pembangunan,794.0,3.0,18,0.0,6,0,4,88,457,1,2
+UNEJ - Akuntansi,977.0,0.0,19,0.0,0,0,5,32,175,0,0
+UNEJ - Manajemen (S2),297.0,1.0,8,0.0,8,0,0,60,194,0,0
+UNEJ - Ilmu Ekonomi (S2),53.0,0.0,6,0.0,6,0,0,21,49,0,0
+UNEJ - Akuntansi (S2),66.0,0.0,6,0.0,6,0,0,16,49,0,0
+UNEJ - Akuntansi (D3),261.0,1.0,6,0.0,0,0,1,15,90,0,0
+UNEJ - Ekonomi Syariah,585.0,0.0,18,0.0,1,0,4,17,170,1,2
+UNEJ - Ilmu Kesehatan Masyarakat (S2),134.0,0.0,5,0.0,5,0,0,55,184,0,0
+UNEJ - Bioteknologi (S2),40.0,0.0,5,0.0,5,0,0,115,2795,2,5
+UNEJ - Pengelolaan Sumber Daya Air Pertanian (S2),6.0,0.0,6,0.0,6,0,0,57,208,4,6
+UNEJ - Bioteknologi (S3),12.0,0.0,5,0.0,5,0,0,249,7748,13,44
+UNEJ - Ilmu Administrasi (S3),55.0,0.0,6,0.0,6,0,0,26,114,0,0
+UNEJ - Ilmu Ekonomi (S3),27.0,0.0,5,0.0,5,0,0,70,136,1,1
+UNEJ - Ilmu Hukum (S3),158.0,0.0,6,0.0,6,0,0,11,6,0,0
+UNEJ - Ilmu Manajemen (S3),119.0,1.0,6,0.0,6,0,0,58,151,0,0
+UNEJ - Ilmu Pertanian (S3),45.0,0.0,7,0.0,7,0,0,106,581,2,5
+UNEJ - Kesehatan Masyarakat (S3),15.0,0.0,5,0.0,5,0,0,10,15,0,0
+UNEJ - Pendidikan Ilmu Pengetahuan Alam (S3),32.0,0.0,5,0.0,5,0,0,116,508,1,1
+UNEJ - Pendidikan Matematika (S3),18.0,0.0,5,0.0,5,0,0,457,2241,12,48
+UNEJ - Dokter (Profesi),41.0,0.0,9,0.0,2,0,0,60,320,4,3
+UNEJ - Dokter Gigi (Profesi),52.0,0.0,47,0.0,1,0,0,208,908,1,1
+UNEJ - Ners (Profesi),17.0,0.0,17,0.0,0,0,0,88,467,2,1
+UNEJ - Pendidikan Profesi Guru (Profesi),5.0,0.0,5,0.0,2,0,0,25,120,0,0
+UNEJ - Profesi Apoteker (Profesi),10.0,0.0,10,0.0,0,0,0,30,165,1,1
+UNEJ - Profesi Insinyur (Profesi),6.0,0.0,6,0.0,2,0,0,29,126,2,2
+UNMUH - P. Bahasa dan Sastra Indonesia,237.0,2.0,9,0.0,5,0,0,2,0,0,0
+UNMUH - P. Matematika,60.0,0.0,6,0.0,3,0,0,5,39,0,0
+UNMUH - P. Biologi,113.0,0.0,5,0.0,3,0,0,6,32,0,0
+UNMUH - P. Bahasa Inggris,160.0,5.0,10,0.0,3,0,0,9,15,2,1
+UNMUH - P. Guru Anak Umur Dini,262.0,0.0,5,0.0,1,0,0,8,26,0,0
+UNMUH - P. Guru Sekolah Dasar,68.0,0.0,5,0.0,1,0,0,1,2,0,0
+UNMUH - P. Olahraga/Jasmani,444.0,0.0,7,0.0,4,0,0,7,51,7,8
+UNMUH - T. Elektro,158.0,0.0,7,0.0,2,0,0,32,298,1,2
+UNMUH - T. Informatika,927.0,0.0,22,0.0,2,0,0,42,256,5,11
+UNMUH - Sistem Informasi,186.0,0.0,5,0.0,0,0,0,14,62,0,0
+UNMUH - T. Sipil,626.0,0.0,13,0.0,3,0,0,40,371,0,0
+UNMUH - T. Mesin,307.0,0.0,6,0.0,1,0,0,7,25,2,1
+UNMUH - T. Lingkungan,54.0,0.0,5,0.0,2,0,0,12,31,0,0
+UNMUH - T. Industri,67.0,0.0,4,0.0,1,0,0,4,3,0,0
+UNMUH - T. Kimia,67.0,0.0,5,0.0,0,0,0,6,24,1,1
+UNMUH - Keperawatan (D3),141.0,0.0,7,0.0,1,0,0,16,51,0,0
+UNMUH - Ilmu Keperawatan,816.0,0.0,15,0.0,2,0,0,13,25,0,0
+UNMUH - Ilmu Komunikasi,334.0,0.0,12,0.0,2,0,0,1,0,0,0
+UNMUH - Ilmu Pemerintahan,203.0,0.0,11,0.0,5,0,0,13,49,1,1
+UNMUH - Akuntansi,304.0,0.0,13,0.0,5,0,0,13,69,0,0
+UNMUH - Manajemen,1116.0,0.0,25,0.0,8,0,0,20,58,1,1
+UNMUH - Manajemen (S2),229.0,0.0,6,0.0,6,0,0,42,97,0,0
+UNMUH - Agroteknologi,136.0,0.0,12,0.0,3,0,0,18,97,0,0
+UNMUH - Agribisnis,242.0,0.0,12,0.0,2,0,0,9,7,4,5
+UNMUH - Teknologi Industri Pertanian,61.0,0.0,6,0.0,1,0,0,13,20,1,7
+UNMUH - Pendidikan Agama Islam,240.0,0.0,6,0.0,4,0,0,2,13,0,0
+UNMUH - Ekonomi Syariah,175.0,0.0,6,0.0,0,0,0,0,0,0,0
+UNMUH - Ilmu Psikologi,520.0,0.0,11,0.0,2,0,0,6,10,1,1
+UNMUH - Ilmu Hukum,700.0,0.0,14,0.0,4,0,0,1,5,0,0
+POLIJE - Produksi Tanaman Hortikultura (D3),120.0,0.0,10,0.0,1,0,0,47,155,0,0
+POLIJE - Produksi Tanaman Perkebunan (D3),111.0,0.0,7,0.0,0,0,0,62,236,0,0
+POLIJE - Teknik Produksi Benih (D4),326.0,0.0,14,0.0,3,0,0,54,354,3,5
+POLIJE - Teknologi Produksi Tanaman Pangan (D4),326.0,0.0,11,0.0,0,0,0,41,91,5,4
+POLIJE - Budidaya Tanaman Perkebunan (D4),347.0,0.0,9,0.0,0,0,0,25,58,0,0
+POLIJE - Pengelolaan Perkebunan Kopi (D4),111.0,0.0,7,0.0,0,0,0,27,104,0,0
+POLIJE - Keteknikan Pertanian (D3),231.0,0.0,10,0.0,0,0,8,80,218,4,11
+POLIJE - Teknologi Industri Pangan (D3),247.0,0.0,13,0.0,1,0,0,79,498,2,2
+POLIJE - Teknologi Rekayasa Pangan (D4),401.0,0.0,16,0.0,5,0,0,126,918,14,23
+POLIJE - Produksi Ternak (D3),225.0,0.0,11,0.0,5,0,10,107,535,8,14
+POLIJE - Manajemen Bisnis Unggas (D4),358.0,0.0,12,0.0,3,0,0,88,444,3,3
+POLIJE - Teknologi Pakan Ternak (D4),191.0,0.0,10,0.0,2,0,0,75,569,9,12
+POLIJE - Manajemen Agribisnis (D3),339.0,0.0,17,0.0,0,0,0,39,208,1,0
+POLIJE - Manajemen Agroindustri (D4),688.0,0.0,17,0.0,0,0,1,175,2738,0,0
+POLIJE - Agribisnis (S2),52.0,0.0,6,0.0,6,0,0,47,202,3,4
+POLIJE - Manajemen Informatika (D3),376.0,0.0,13,0.0,1,0,10,79,803,3,6
+POLIJE - Teknik Komputer (D3),405.0,0.0,12,0.0,1,0,20,62,330,1,3
+POLIJE - Teknik Informatika (D4),868.0,0.0,19,0.0,2,0,12,86,668,3,4
+POLIJE - Teknologi Rekayasa Komputer (D4),53.0,0.0,5,0.0,0,0,0,18,113,0,0
+POLIJE - Bahasa Inggris (D3),206.0,0.0,21,0.0,1,0,0,7,20,2,2
+POLIJE - Destinasi Pariwisata (D4),333.0,0.0,9,0.0,0,0,0,1,0,0,0
+POLIJE - Produksi Media (D4),39.0,0.0,6,0.0,0,0,0,1,0,0,0
+POLIJE - Manajemen Informasi Kesehatan (D4),861.0,0.0,22,0.0,0,0,0,55,189,1,1
+POLIJE - Gizi Klinik (D4),584.0,0.0,27,0.0,0,0,0,63,225,4,2
+POLIJE - Promosi Kesehatan (D4),351.0,0.0,12,0.0,2,0,0,25,49,0,0
+POLIJE - Teknik Energi terbarukan (D4),456.0,0.0,17,0.0,2,0,11,103,536,8,24
+POLIJE - Mesin Otomotif (D4),607.0,0.0,15,0.0,3,0,0,52,1513,4,12
+POLIJE - Teknologi Rekayasa Mekatronika (D4),374.0,0.0,11,0.0,1,0,0,48,361,5,6
+POLIJE - Akuntansi Sektor Publik (D4),455.0,0.0,12,0.0,0,0,1,7,9,0,0
+POLIJE - Manajemen Pemasaran Internasional (D4),414.0,0.0,10,0.0,3,0,0,11,11,0,0
